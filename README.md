@@ -88,6 +88,9 @@ Ridge Regression R2-0.129785	MAE-2420.135677	MSE-1.606177e+08
 
 -Using **MinMaxScaler** on the dataset to convert all the larger values and bringing them to a scale range which increases the performance of the model.
 
+![Screenshot (110)](https://github.com/Ankitb700/Car-Prediction/assets/97277845/4443a3c1-e418-4685-8874-9f4891b9f788)
+
+
 ### PCA transformation
 We reduced the 10 features to be only 3.
 ~~~
